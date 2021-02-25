@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+#red {color: red}
+#blue {color : blue}
+#green {color:green}
+#styledImage{border-width: 1cm; border-style: dotted; color: teal}
+
+
+.big {font-size: xx-large;}
+.small{font-size: 5px;}
+.centered{text-align:center;}
+.bold{font-weight: bold;}
+.changeFont{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+.multipleAttributes{font-size: 45px; font-weight: bold; color: orangered;}
+.styledFont{font-size:25px; font-weight: lighter; color: yellowgreen}
